@@ -1,0 +1,30 @@
+{
+  "name": "My Custom Apps",
+  "version": "1.0.0",
+  "apps": [
+    {
+      "id": "app-one-single-file",
+      "name": "My First App",
+      "desc": "A self-contained single-file HTML app",
+      "icon": "grid",
+      "colors": ["#5865f2", "#7266ff"],
+      "cat": "Utilities",
+      "version": "1.0.0",
+      "file": "apps/my-app.html",
+      "w": 720,
+      "h": 500
+    },
+    {
+      "id": "app-two-multi-file",
+      "name": "My Second App",
+      "desc": "A multi-file app with its own CSS, JS, and asset files",
+      "icon": "gamepad",
+      "colors": ["#23a55a", "#57f287"],
+      "cat": "Games",
+      "version": "1.0.0",
+      "url": "https://<your-username>.github.io/<your-repo>/apps/my-game/index.html",
+      "w": 840,
+      "h": 600
+    }
+  ]
+}
