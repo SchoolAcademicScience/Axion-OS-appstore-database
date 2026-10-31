@@ -3,14 +3,14 @@
   "version": "1.0.0",
   "apps": [
     {
-      "id": "app-one-single-file",
-      "name": "My First App",
-      "desc": "A self-contained single-file HTML app",
+      "id": "ClusterRush",
+      "name": "ClusterRush",
+      "desc": "Jump on trucks and reach the end!",
       "icon": "grid",
       "colors": ["#5865f2", "#7266ff"],
       "cat": "Utilities",
       "version": "1.0.0",
-      "file": "apps/my-app.html",
+      "file": "apps/ClusterRush.html",
       "w": 720,
       "h": 500
     },
